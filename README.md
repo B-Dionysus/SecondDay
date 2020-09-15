@@ -1,2 +1,2 @@
 # SecondDay
-HTML exercise for the second days of class
+HTML exercise for the second day of class
